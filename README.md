@@ -1,4 +1,4 @@
-# resources
+# Resources
 Just a simple place to hold free resources for Javascript books and courses online 
 
 [Software Development](https://learnitmyway.com/learning-material-software-development/)  
